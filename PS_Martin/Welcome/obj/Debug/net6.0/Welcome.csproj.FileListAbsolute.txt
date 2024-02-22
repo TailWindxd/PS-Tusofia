@@ -1,0 +1,30 @@
+D:\Uni\VI semestar\ПС\pojects\PS_47_Ivan\Welcome\bin\Debug\net6.0\Welcome.exe
+D:\Uni\VI semestar\ПС\pojects\PS_47_Ivan\Welcome\bin\Debug\net6.0\Welcome.deps.json
+D:\Uni\VI semestar\ПС\pojects\PS_47_Ivan\Welcome\bin\Debug\net6.0\Welcome.runtimeconfig.json
+D:\Uni\VI semestar\ПС\pojects\PS_47_Ivan\Welcome\bin\Debug\net6.0\Welcome.dll
+D:\Uni\VI semestar\ПС\pojects\PS_47_Ivan\Welcome\bin\Debug\net6.0\Welcome.pdb
+D:\Uni\VI semestar\ПС\pojects\PS_47_Ivan\Welcome\obj\Debug\net6.0\Welcome.csproj.AssemblyReference.cache
+D:\Uni\VI semestar\ПС\pojects\PS_47_Ivan\Welcome\obj\Debug\net6.0\Welcome.GeneratedMSBuildEditorConfig.editorconfig
+D:\Uni\VI semestar\ПС\pojects\PS_47_Ivan\Welcome\obj\Debug\net6.0\Welcome.AssemblyInfoInputs.cache
+D:\Uni\VI semestar\ПС\pojects\PS_47_Ivan\Welcome\obj\Debug\net6.0\Welcome.AssemblyInfo.cs
+D:\Uni\VI semestar\ПС\pojects\PS_47_Ivan\Welcome\obj\Debug\net6.0\Welcome.csproj.CoreCompileInputs.cache
+D:\Uni\VI semestar\ПС\pojects\PS_47_Ivan\Welcome\obj\Debug\net6.0\Welcome.dll
+D:\Uni\VI semestar\ПС\pojects\PS_47_Ivan\Welcome\obj\Debug\net6.0\refint\Welcome.dll
+D:\Uni\VI semestar\ПС\pojects\PS_47_Ivan\Welcome\obj\Debug\net6.0\Welcome.pdb
+D:\Uni\VI semestar\ПС\pojects\PS_47_Ivan\Welcome\obj\Debug\net6.0\Welcome.genruntimeconfig.cache
+D:\Uni\VI semestar\ПС\pojects\PS_47_Ivan\Welcome\obj\Debug\net6.0\ref\Welcome.dll
+E:\Github\PS-Project\PS_47_Ivan\Welcome\bin\Debug\net6.0\Welcome.exe
+E:\Github\PS-Project\PS_47_Ivan\Welcome\bin\Debug\net6.0\Welcome.deps.json
+E:\Github\PS-Project\PS_47_Ivan\Welcome\bin\Debug\net6.0\Welcome.runtimeconfig.json
+E:\Github\PS-Project\PS_47_Ivan\Welcome\bin\Debug\net6.0\Welcome.dll
+E:\Github\PS-Project\PS_47_Ivan\Welcome\bin\Debug\net6.0\Welcome.pdb
+E:\Github\PS-Project\PS_47_Ivan\Welcome\obj\Debug\net6.0\Welcome.GeneratedMSBuildEditorConfig.editorconfig
+E:\Github\PS-Project\PS_47_Ivan\Welcome\obj\Debug\net6.0\Welcome.AssemblyInfoInputs.cache
+E:\Github\PS-Project\PS_47_Ivan\Welcome\obj\Debug\net6.0\Welcome.AssemblyInfo.cs
+E:\Github\PS-Project\PS_47_Ivan\Welcome\obj\Debug\net6.0\Welcome.csproj.CoreCompileInputs.cache
+E:\Github\PS-Project\PS_47_Ivan\Welcome\obj\Debug\net6.0\Welcome.sourcelink.json
+E:\Github\PS-Project\PS_47_Ivan\Welcome\obj\Debug\net6.0\Welcome.dll
+E:\Github\PS-Project\PS_47_Ivan\Welcome\obj\Debug\net6.0\refint\Welcome.dll
+E:\Github\PS-Project\PS_47_Ivan\Welcome\obj\Debug\net6.0\Welcome.pdb
+E:\Github\PS-Project\PS_47_Ivan\Welcome\obj\Debug\net6.0\Welcome.genruntimeconfig.cache
+E:\Github\PS-Project\PS_47_Ivan\Welcome\obj\Debug\net6.0\ref\Welcome.dll

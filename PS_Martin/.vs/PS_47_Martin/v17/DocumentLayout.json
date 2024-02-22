@@ -1,0 +1,106 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Github\\PS-Project\\PS_47_Ivan\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F63FED16-5931-4DD0-A6F7-901E8A8F7953}|Welcome\\Welcome.csproj|e:\\github\\ps-project\\ps_47_ivan\\welcome\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F63FED16-5931-4DD0-A6F7-901E8A8F7953}|Welcome\\Welcome.csproj|solutionrelative:welcome\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F63FED16-5931-4DD0-A6F7-901E8A8F7953}|Welcome\\Welcome.csproj|e:\\github\\ps-project\\ps_47_ivan\\welcome\\view\\userview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F63FED16-5931-4DD0-A6F7-901E8A8F7953}|Welcome\\Welcome.csproj|solutionrelative:welcome\\view\\userview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F63FED16-5931-4DD0-A6F7-901E8A8F7953}|Welcome\\Welcome.csproj|e:\\github\\ps-project\\ps_47_ivan\\welcome\\viewmodel\\userviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F63FED16-5931-4DD0-A6F7-901E8A8F7953}|Welcome\\Welcome.csproj|solutionrelative:welcome\\viewmodel\\userviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F63FED16-5931-4DD0-A6F7-901E8A8F7953}|Welcome\\Welcome.csproj|e:\\github\\ps-project\\ps_47_ivan\\welcome\\others\\userrolesenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F63FED16-5931-4DD0-A6F7-901E8A8F7953}|Welcome\\Welcome.csproj|solutionrelative:welcome\\others\\userrolesenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F63FED16-5931-4DD0-A6F7-901E8A8F7953}|Welcome\\Welcome.csproj|e:\\github\\ps-project\\ps_47_ivan\\welcome\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F63FED16-5931-4DD0-A6F7-901E8A8F7953}|Welcome\\Welcome.csproj|solutionrelative:welcome\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Github\\PS-Project\\PS_47_Ivan\\Welcome\\Program.cs",
+              "RelativeDocumentMoniker": "Welcome\\Program.cs",
+              "ToolTip": "E:\\Github\\PS-Project\\PS_47_Ivan\\Welcome\\Program.cs",
+              "RelativeToolTip": "Welcome\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-22T12:49:28.929Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserViewModel.cs",
+              "DocumentMoniker": "E:\\Github\\PS-Project\\PS_47_Ivan\\Welcome\\ViewModel\\UserViewModel.cs",
+              "RelativeDocumentMoniker": "Welcome\\ViewModel\\UserViewModel.cs",
+              "ToolTip": "E:\\Github\\PS-Project\\PS_47_Ivan\\Welcome\\ViewModel\\UserViewModel.cs",
+              "RelativeToolTip": "Welcome\\ViewModel\\UserViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-22T12:56:26.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserView.cs",
+              "DocumentMoniker": "E:\\Github\\PS-Project\\PS_47_Ivan\\Welcome\\View\\UserView.cs",
+              "RelativeDocumentMoniker": "Welcome\\View\\UserView.cs",
+              "ToolTip": "E:\\Github\\PS-Project\\PS_47_Ivan\\Welcome\\View\\UserView.cs",
+              "RelativeToolTip": "Welcome\\View\\UserView.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-22T12:56:21.251Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserRolesEnum.cs",
+              "DocumentMoniker": "E:\\Github\\PS-Project\\PS_47_Ivan\\Welcome\\Others\\UserRolesEnum.cs",
+              "RelativeDocumentMoniker": "Welcome\\Others\\UserRolesEnum.cs",
+              "ToolTip": "E:\\Github\\PS-Project\\PS_47_Ivan\\Welcome\\Others\\UserRolesEnum.cs",
+              "RelativeToolTip": "Welcome\\Others\\UserRolesEnum.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-22T12:56:19.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "User.cs",
+              "DocumentMoniker": "E:\\Github\\PS-Project\\PS_47_Ivan\\Welcome\\Model\\User.cs",
+              "RelativeDocumentMoniker": "Welcome\\Model\\User.cs",
+              "ToolTip": "E:\\Github\\PS-Project\\PS_47_Ivan\\Welcome\\Model\\User.cs",
+              "RelativeToolTip": "Welcome\\Model\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-22T12:56:05.795Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
